@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 
 author 'Nevera Development'
-description '[FREE] Sit on every chair'
+description '[FREE] Sit on every chair v1.1'
 version '1.0.0'
 
 shared_scripts {
